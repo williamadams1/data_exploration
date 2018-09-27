@@ -1,6 +1,6 @@
-# Exploratory Data Analysis of Boston Suburban Housing Data 
+## Exploratory Data Analysis
 
-Boston House Prices dataset
+Boston House Prices Dataset
 ===========================
 
 Notes
