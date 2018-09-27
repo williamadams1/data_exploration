@@ -1,6 +1,6 @@
-## Exploratory Data Analysis
+# Exploratory Data Analysis
 
-Boston House Prices Dataset
+## Boston House Prices Dataset
 ===========================
 
 Notes
